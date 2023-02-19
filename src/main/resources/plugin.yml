@@ -1,0 +1,4 @@
+name: JavaDingSound
+main: net.swade.javadingsound.Main
+version: 1.0
+api: 1.0.0

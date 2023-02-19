@@ -1,7 +1,7 @@
 # JavaDingSound
 Java Ding Sound
 
-Hello! This is the Ding Sound Plugin, a Minecraft Bedrock add-on developed to provide a missing feature. It allows players to hear a ding sound when they hit another player with an arrow, egg, or snowball, just like in the Java edition.
+Hello! This is the Ding Sound Plugin, a Minecraft Bedrock add-on developed to provide a missing feature. It allows players to hear a ding sound when they hit another player with an arrow, egg, trident, or snowball, just like in the Java edition.
 
 This plugin is designed to provide a more fun experience for players who are playing in the Bedrock edition. It is particularly useful in competitive environments, such as PVP matches or mini-games.
 
